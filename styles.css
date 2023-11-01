@@ -1,0 +1,21 @@
+.button {
+    background-color: #FFFFFF; 
+    border: 1px solid #D1D1D1;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 16px;
+    color: #333333;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 9999; /* Make sure the button appears above all other elements */
+}
+
+.button:hover {
+    background-color: #F5F5F5;
+}
+
+.button i {
+    margin-right: 10px;
+}
