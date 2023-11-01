@@ -1,0 +1,42 @@
+Privacy Policy for the Text Selection Search Extension
+
+Effective Date: [Insert the date the policy is effective from]
+
+1. Introduction
+
+Welcome to the Text Selection Search Extension Privacy Policy. This policy outlines our commitment to protecting the privacy of our users. Please read this policy carefully to understand our practices concerning your personal data.
+
+2. Data Collection
+
+We value your privacy, and we want to be transparent about the data we collect.
+
+Data We Do NOT Collect:
+Personal identification information.
+Browsing history.
+Search queries outside of the extension's specific functionality.
+3. Purpose of Data Collection
+
+The Text Selection Search Extension does not collect or transmit any personal data. Its primary function is to allow users to search for selected text on Google. Any action taken within the extension stays within the user's browser.
+
+4. Permissions
+
+Our extension utilizes the activeTab permission. This means:
+
+We only access the currently active tab when the user explicitly invokes our extension.
+We do not retain any data from the active tab after the user's session.
+5. Data Sharing and Third Parties
+
+We do not share or sell any data with third parties.
+
+6. Data Security
+
+Given that we don't collect or store any user data, there's no data to be compromised. However, we've implemented measures to ensure that the extension operates securely within your browser.
+
+7. Changes to This Privacy Policy
+
+From time to time, we may update our privacy policy. Any changes will be posted on this page with an updated effective date. Users are encouraged to periodically review this policy for the latest information on our privacy practices.
+
+8. Contact Us
+
+If you have any questions or concerns about our privacy policy or our data practices, please contact us at arunks7889@gmail.com
+

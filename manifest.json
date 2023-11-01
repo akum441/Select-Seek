@@ -3,7 +3,7 @@
   "name": "Text Selection Search",
   "version": "1.0",
   "description": "Search selected text in Google",
-  "permissions": ["activeTab", "storage"],
+  "permissions": [],
   "content_scripts": [{
     "matches": ["<all_urls>"],
     "js": ["content.js"],
